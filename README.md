@@ -1,79 +1,71 @@
-# 💫 About Me:
+# Erfan Paya 👋
 
-I am a self-taught programmer who has been working in the front-end field for more than a year and has done various projects for individuals and teams.
-<br>
-Because I love coding and programming, I am learning and improving my skills every day.
+DevOps-focused Software Engineer with a background in building scalable, production-ready web applications.
 
-You can discover my projects on my <a href="https://github.com/hp0098v1">GitHub</a> and <a href="https://www.linkedin.com/in/hp0098v1">LinkedIn</a>.
+With 3+ years of experience in full-stack development (Next.js, NestJS, TypeScript), I have recently shifted my primary focus toward infrastructure, automation, and system reliability.
 
-## 🌐 Socials:
+I’m currently building hands-on expertise in DevOps practices and cloud fundamentals, combining software engineering principles with infrastructure thinking.
 
-<p align="left">
-  <a href="https://linkedin.com/in/hp0098v1">
-    <img src="./assets/social/linkedin.svg" alt="LinkedIn" width="32" height="32">
-  </a>
-  <a href="https://t.me/hp0098v1">
-    <img src="./assets/social/telegram.svg" alt="Telegram" width="32" height="32">
-  </a>
-</p>
+---
 
-# 💻 Tech Stack:
+## 🚀 Current Focus
 
-### Frameworks
+- Linux & System Fundamentals  
+- Docker & Containerization  
+- CI/CD Pipelines (GitHub Actions)  
+- Infrastructure Automation  
+- VPS Provisioning & Deployment  
+- Monitoring & Reliability Basics  
+- Cloud Fundamentals  
 
-<p align="left">
-  <a href="https://nextjs.org/">
-    <img src="./assets/frameworks/nextjs.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="./assets/frameworks/react.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+---
 
-### Languages
+## 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://www.typescriptlang.org/">
-    <img src="./assets/languages/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.info/">
-    <img src="./assets/languages/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
+### Backend
+- NestJS
+- Express.js
+- MongoDB
+- PostgreSQL
+- REST APIs
 
-### Styling
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
-<p align="left">
-  <a href="https://ui.shadcn.com/">
-    <img src="./assets/styling/shadcn.svg" alt="Shadcn" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="./assets/styling/tailwindcss.svg" alt="Tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="./assets/styling/css.svg" alt="CSS" width="40" height="40"/>
-  </a>
-</p>
+### DevOps & Infrastructure
+- Docker
+- Linux
+- GitHub Actions
+- CI/CD Design
+- Nginx
+- VPS Configuration & Deployment
 
-### Tools
+### Automation
+- n8n Workflows
+- SEO Automation Pipelines
 
-<p align="left">
-  <a href="https://www.npmjs.com/">
-    <img src="./assets/tools/npm.svg" alt="NPM" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="./assets/tools/git.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="./assets/tools/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="./assets/tools/figma.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="./assets/tools/vscode.svg" alt="VSCode" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="./assets/tools/linux.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+---
+
+## 📂 What You'll Find in My Repositories
+
+- Production-grade web applications  
+- Dockerized services  
+- CI/CD pipeline examples  
+- Infrastructure setup experiments  
+- Automation workflows  
+
+---
+
+## 🎯 Professional Direction
+
+My goal is to grow into a DevOps Engineer role by bridging software development with infrastructure, automation, and scalable system design.
+
+---
+
+## 📫 Connect
+
+- LinkedIn:  https://linkedin.com/in/hp0098v1
+- Email: hp0098v1@gmail.com
